@@ -26,28 +26,3 @@ client.handleEvents()
 client.handleGlobalCommands()
 client.handleLocalCommands()
 client.login(token)
-
-// Expired Cooldowns
-const blacklistedGuilds = require('./models/blacklistGuild')
-const blacklistedUsers = require('./models/blacklistUser')
-const commandCooldowns = require('./models/cooldowns')
-const robCooldowns = require('./models/robCooldowns')
-const robCooldownsSus = require('./models/robCooldownsSus')
-const recentCommandSchema = require('./models/recentCommands')
-
-const check = async () => {
-  const query = {
-    expires: {
-      $lt: new Date()
-    },
-  }
-
-  await blacklistedGuilds.deleteMany(query)
-  await blacklistedUsers.deleteMany(query)
-  await commandCooldowns.deleteMany(query)
-  await robCooldowns.deleteMany(query)
-  await robCooldownsSus.deleteMany(query)
-  await recentCommandSchema.deleteMany(query)
-  setTimeout(check, 1000 * 1)
-}
-check()
