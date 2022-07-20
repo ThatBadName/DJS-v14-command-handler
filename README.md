@@ -22,4 +22,3 @@ If you need any help feel free to join my [support server](https://discord.gg/9j
 > [**Shin**](https://www.youtube.com/channel/UCmc0FzllZqEI0H1iwSWUquw)\
 > Made the (/) command deleter\
 > [GitHub](https://github.com/Shineurysm) | [YouTube](https://www.youtube.com/channel/UCmc0FzllZqEI0H1iwSWUquw)
-OTc5NzIwODk5Nzk4MzY4Mjk3.Gv6jq0.sSvF_wAzeaqUPwq2lsHN9gRIIj22T8KtvtXz6Q
