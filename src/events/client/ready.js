@@ -1,5 +1,5 @@
 const mongoose = require('mongoose')
-const { mongoUri } = require('../../../config.json')
+const { mongoUri, useMongo } = require('../../../config.json')
 
 module.exports = {
     name: 'ready',
@@ -7,6 +7,6 @@ module.exports = {
 
     async execute(client) {
         console.log(`[Startup] ${client.user.username} is online`)
-        mongoose.connect(mongoUri, { keepAlive: true }).then(console.log(`[Startup] ${client.user.username} has connected to mongo`))
+        if (useMongo === true) mongoose.connect(mongoUri, { keepAlive: true }).then(console.log(`[Startup] ${client.user.username} has connected to mongo`))
     }
 }
