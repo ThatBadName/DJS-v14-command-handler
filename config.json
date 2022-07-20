@@ -3,5 +3,5 @@
     "mongoUri": "", // Put your mongo URI here
     "testGuildId": "", // Put your test server ID here
     "clientId": "" // Put your bots ID here,
-    "useMongo": true // Change to false if you don't know how to use mongo
+    "useMongo": true // Change to false if you don't know how to use mongo or don't have/want a database
 }
