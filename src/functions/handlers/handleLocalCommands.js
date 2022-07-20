@@ -8,7 +8,7 @@ const {
 const {
     token,
     testGuildId,
-
+    clientId
 } = require('../../../config.json')
 
 module.exports = (client) => {
@@ -28,7 +28,6 @@ module.exports = (client) => {
             }
         }
 
-        const clientId = client.user.id
         const rest = new REST({
             version: "10"
         }).setToken(token)
