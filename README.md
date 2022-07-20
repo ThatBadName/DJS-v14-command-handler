@@ -12,7 +12,7 @@ Also included a global (/) command deleter. If you wanna delete guild (/)command
 To run the deleter simply run `node <file-path>`
 
 ## Support
-If you need any help feel free to join my [support server](https://discord.gg/9jFqS5H43Q)
+If you need any help feel free to join my [support server](https://discord.gg/9jFqS5H43Q). If you feel like it a star would be nice :)
 
 ## Credit
 > [**Fusion Terror**](https://www.youtube.com/c/FusionTerror)\
