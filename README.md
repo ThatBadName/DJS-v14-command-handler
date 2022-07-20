@@ -1,6 +1,6 @@
-# DJS-v14-command-handler
+# DJS v14 Command Handler
 
-An upgraded version of [**Fusion Terror's** DJS v14 command handler](https://www.youtube.com/watch?v=DB8a8i1pXUM). I have just made it so that you have the ability to register some commands for just 1 guild (like a test server)
+An upgraded version of [**Fusion Terror's** DJS v14 command handler](https://www.youtube.com/watch?v=DB8a8i1pXUM). I have just made it so that you have the ability to register some commands for just 1 guild (like a test server). It also has a mongo config setup 
 
 ## Setup
 - Clone the repo/Download the files and extract them
