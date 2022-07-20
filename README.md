@@ -1,6 +1,6 @@
 # DJS-v14-command-handler
 
-An upgraded version of [**Fusion Terror's**](https://www.youtube.com/c/FusionTerror) DJS v14 command handler. I have just made it so that you have the ability to register some commands for just 1 guild (like a test server)
+An upgraded version of [**Fusion Terror's** DJS v14 command handler](https://www.youtube.com/watch?v=DB8a8i1pXUM). I have just made it so that you have the ability to register some commands for just 1 guild (like a test server)
 
 ## Setup
 - Clone the repo/Download the files and extract them
@@ -12,4 +12,13 @@ Also included a global (/) command deleter. If you wanna delete guild (/)command
 To run the deleter simply run `node <file-path>`
 
 ## Support
-If you need any help feel free to join my [support server]
+If you need any help feel free to join my [support server](https://discord.gg/9jFqS5H43Q)
+
+## Credit
+> [**Fusion Terror's**](https://www.youtube.com/c/FusionTerror)
+> Made the base command handler
+> [GitHub](https://github.com/FusionTerror) | [YouTube](https://www.youtube.com/c/FusionTerror) [Discord](https://discord.com/invite/QJyTkNxVrX)
+
+> [**Shin**](https://www.youtube.com/channel/UCmc0FzllZqEI0H1iwSWUquw)
+> Made the (/) command deleter
+> [GitHub](https://github.com/Shineurysm) | [YouTube](https://www.youtube.com/channel/UCmc0FzllZqEI0H1iwSWUquw)
