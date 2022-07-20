@@ -1,4 +1,5 @@
 {
     "token": "", // Put your bots token here
+    "mongoUri": "", // Put your mongo URI here
     "testGuildId": "" // Put your test server ID here
 }
