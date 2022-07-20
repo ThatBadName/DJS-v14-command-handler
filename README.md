@@ -15,10 +15,10 @@ To run the deleter simply run `node <file-path>`
 If you need any help feel free to join my [support server](https://discord.gg/9jFqS5H43Q)
 
 ## Credit
-> [**Fusion Terror's**](https://www.youtube.com/c/FusionTerror)
-> Made the base command handler
+> [**Fusion Terror**](https://www.youtube.com/c/FusionTerror)\
+> Made the base command handler\
 > [GitHub](https://github.com/FusionTerror) | [YouTube](https://www.youtube.com/c/FusionTerror) [Discord](https://discord.com/invite/QJyTkNxVrX)
 
-> [**Shin**](https://www.youtube.com/channel/UCmc0FzllZqEI0H1iwSWUquw)
-> Made the (/) command deleter
+> [**Shin**](https://www.youtube.com/channel/UCmc0FzllZqEI0H1iwSWUquw)\
+> Made the (/) command deleter\
 > [GitHub](https://github.com/Shineurysm) | [YouTube](https://www.youtube.com/channel/UCmc0FzllZqEI0H1iwSWUquw)
